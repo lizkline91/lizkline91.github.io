@@ -37,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LK.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LK.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LK.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.869565" vertical-offset="393" max-vertical-offset="6255">
-              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.5323741" vertical-offset="243" max-vertical-offset="6255">
+              <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
@@ -121,8 +121,8 @@
         <option value="$PROJECT_DIR$/views/rsb.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/views/home.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/views/home.html" />
       </list>
     </option>
   </component>
@@ -130,8 +130,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="23" />
+    <option name="x" value="7" />
+    <option name="y" value="117" />
     <option name="width" value="1245" />
     <option name="height" value="563" />
   </component>
@@ -321,7 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="23" width="1245" height="563" extended-state="0" />
+    <frame x="7" y="117" width="1245" height="563" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -711,24 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.869565" vertical-offset="393" max-vertical-offset="6255">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4162" max-vertical-offset="11355">
@@ -759,6 +741,24 @@
     <entry file="file://$PROJECT_DIR$/LK.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5323741" vertical-offset="243" max-vertical-offset="6255">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#0;n#blockquote#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
