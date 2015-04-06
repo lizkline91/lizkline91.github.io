@@ -1,0 +1,15 @@
+{
+  "name": "lizPortfolio",
+  "version": "1.0.0",
+  "description": "Web Design Portfolio for Liz Kline",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lizkline91.github.io"
+  },
+  "author": "Liz Kline",
+  "license": "ISC"
+}

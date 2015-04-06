@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LK &mdash; Portfolio</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta charset="utf-8">
+    <meta name="author" content="Liz Kline">
+    <!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+    <!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+    <!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+    <!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="images/favicon.png">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-responsive.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+<!--
+           _  o o
+           \ \|/ _,
+        __.'   /`_/
+      /`    u   ;#
+      `c-_..__,/ ##
+             );:'##
+             |   ##
+             |:.:##
+             |.  ##
+             |:.'##
+             |.::##
+            /  ' ##
+            |.:'  ##
+            ;::' .:#
+           / '     '#
+           |   .: '::.`'-..__
+           |:.         .::' `',
+           |:::   ':.       .:,\
+            \ ', .  .::' .::  | |
+            |'.|.:|  '     '  /\#
+            |  \ '|._.::  |   |##
+            | /|.:|  `"";`| .:|##
+            / ||  /     | ;  '|
+            \ // |      \:'\  |
+            | /\ /       ; ;| \
+            | || |       | || /
+            | || |       | || |
+           _/ j| |      _/ J| |
+          (/_/_/ J     (/_/_/ j
+             (/_/         (/_/
+            Long necked horse
+    -->
+
+
+</head>
+<body class="appear-animate" ng-app>
+
+<!-- Page Loader -->
+<div class="page-loader">
+    <div class="loader">Loading...</div>
+</div>
+<!-- End Page Loader -->
+
+<!-- Page Wrap -->
+<div class="page" id="top">
+
+    <!-- Navigation panel -->
+    <nav class="main-nav js-stick">
+        <div class="full-wrapper relative clearfix">
+            <!-- Logo ( * your text or image into link tag *) -->
+            <div class="nav-logo-wrap local-scroll">
+                <a href="#top" class="logo">
+                    <h1>LK</h1>
+                </a>
+            </div>
+            <div class="mobile-nav">
+                <i class="fa fa-bars"></i>
+            </div>
+            <!-- Main Menu -->
+            <div class="inner-nav desktop-nav">
+                <ul class="clearlist ">
+                    <li class="active local-scroll"><a href="#home">Home</a></li>
+                    <li class="local-scroll"><a href="#portfolio">Portfolio</a></li>
+                    <li class="local-scroll"><a href="#resume">Resume</a></li>
+                    <li class="local-scroll"><a href="#contact">Contact</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navigation panel -->
+
+    <div ng-view="">
+
+    </div>
+
+
+
+    <!-- Foter -->
+    <footer class="page-section bg-gray-lighter footer pb-60">
+        <div class="container">
+
+            <!-- Footer Logo -->
+            <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.2s">
+                <a href="#top"><h1 style="font-size:1.5em;">LK</h1></a>
+            </div><br>
+            <!-- End Footer Logo -->
+
+            <!-- Social Links -->
+            <div class="footer-social-links mb-110 mb-xs-60">
+                <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="#" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a href="#" title="Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+            </div>
+            <!-- End Social Links -->
+            <br>
+            <br>
+            <!-- Footer Text -->
+            <div class="footer-text">
+
+                <!-- Copyright -->
+                <div class="footer-copy font-alt">
+                    <a href="https://github.com/lizkline91" target="_blank" style="color:#B7CB85;">&copy; Liz Kline 2015</a>.
+                </div>
+                <!-- End Copyright -->
+
+
+            </div>
+            <!-- End Footer Text -->
+
+        </div>
+
+
+        <!-- Top Link -->
+        <div class="local-scroll">
+            <a href="#top" class="link-to-top"><i class="fa fa-caret-up"></i></a>
+        </div>
+        <!-- End Top Link -->
+
+    </footer>
+    <!-- End Foter -->
+
+
+</div>
+<!-- End Page Wrap -->
+
+
+<!-- JS -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" ></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.5/angular-route.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/SmoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="js/jquery.localScroll.min.js"></script>
+<script type="text/javascript" src="js/jquery.sticky.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="js/all.js"></script>
+<script type="text/javascript" src="js/contact-form.js"></script>
+<!--[if lt IE 10]><script type="text/javascript" src="js/placeholder.js"></script><![endif]-->
+
+</body>
+</html>
