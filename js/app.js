@@ -8,6 +8,10 @@ var app =
                 templateUrl: 'views/home.html',
                 controller: 'HomeControl'
             });
+            $routeProvider.when('/resume', {
+                templateUrl: 'views/resume.html',
+                controller: 'HomeControl'
+            });
 
 
         })
